@@ -2,3 +2,10 @@ body{
     background-color: #000000;
     color: #FFFFFF;
 }
+.card{
+    background-color: #1A1A1A;
+    border: 1px solid #333333;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px;
+}
